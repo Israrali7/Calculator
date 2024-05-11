@@ -1,0 +1,25 @@
+.cen{
+    text-align: center;
+    margin-top: 2rem;
+}
+.rows{
+    margin: 5px;
+}
+button{
+    padding: 1.5rem;
+    margin: 1.5px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+}
+.write{
+    font-size: 22px;
+    margin: 0;
+    padding: 16px 2px;
+    border-radius: 5px;
+    border: 2px solid black;
+
+}
+.write:hover{
+    outline: 2px solid yellow;
+}
